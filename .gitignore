@@ -1,0 +1,4 @@
+**/ces
+**/*.o
+**/deps.mk
+docs/
